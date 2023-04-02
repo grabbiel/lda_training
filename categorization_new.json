@@ -1,0 +1,301 @@
+{
+    "Financial Issues": {
+        "Taxes": {
+            "Business or Tax": 1,
+            "State or Federal": 2,
+            "Other": 3
+        },
+        "Benefits": {
+            "Veterans": 1,
+            "Other": 2,
+            "Government Benefits": {
+                "SS": 1,
+                "Other": 2
+            },
+            "Food Stamps, Welfare and Township Poor Relief": 4
+        },
+        "Bankruptcy": {
+            "Debt": {
+                "Collection": {
+                    "Reposession": 1,
+                    "Delinquency": 2,
+                    "Garnishment": 3
+                }
+            },
+            "Purchases": 2,
+            "Debtor Relief": 3,
+            "COVID 19": 4,
+            "Consumer Debt": 5,
+            "Other": 6
+        },
+        "COVID 19": {
+            "Bankruptcy": 1,
+            "Consumer": 2,
+            "Benefits": 3,
+            "Other": 3
+        },
+        "Insurance": {
+            "Automobile": 1,
+            "Property": 2,
+            "Claims": 3,
+            "Natural Disasters": {
+                "Hurricane Ida": 1,
+                "Other": 2
+            },
+            "Unemployment": 5,
+            "Other": 7
+        },
+        "Disputes": {
+            "Breach": 1,
+            "Contracts": 2,
+            "Public Utility Case": 3,
+            "Other": 4,
+            "Alimony": 6,
+            "Small Claims": 5
+        },
+        "Consumer": {
+            "Consumer Protection": 1,
+            "Consumer Rights": 2,
+            "Other": 3
+        },
+        "Natural Disaster": {
+            "Wildfire": 1,
+            "Hurricanes": 2,
+            "Other": 3
+        },
+        "Professional": {
+            "Technical Licensure": 1,
+            "Other": 2
+        }
+    },
+    "Education": {
+        "Litigation": 1,
+        "School Discipline": {
+            "Suspensions": 1,
+            "Expulsions": 2,
+            "Other": 3
+        },
+        "COVID 19": 3,
+        "Special Education": 4,
+        "Student Financial Aid": 5,
+        "Other": 6
+    },
+    "Family and Children": {
+        "Adoption": 1,
+        "Conservatorship": 2,
+        "COVID 19": {
+            "Wills": 1,
+            "Other": 2
+        },
+        "Child Support": 3,
+        "Custody": 4,
+        "Visitation": 5,
+        "Parenting Time": 6,
+        "Immigration and DHS": 7,
+        "Welfare": 8,
+        "Divorce": 9,
+        "Separation": 10,
+        "Annulment": 11,
+        "Domestic Abuse": 12,
+        "Domestic Violence": 13,
+        "Restraining Orders": 14,
+        "Inheritance": 15,
+        "Family Law Questions": 16,
+        "Grandparent Visitation": 17,
+        "Guardianship": {
+            "Minor": 1,
+            "Adult": 2,
+            "Other": 3
+        },
+        "Power of Attorney": 19,
+        "Name Change": {
+            "Minor": 1,
+            "Adult": 2,
+            "Other": 3
+        },
+        "Parental Rights": 21,
+        "Paternity": 22,
+        "Wills": 23,
+        "Trusts": 24,
+        "Estates": 25
+    },
+    "Health and Disability": {
+        "COVID 19": 80676,
+        "Disability Rights": 10825453,
+        "Mental Health": 20738255,
+        "Health Care": 123525418,
+        "Long Term Health Facilities": 1658590,
+        "MaineCare": 1,
+        "Medicare": 1,
+        "Affordable Care Act": 1235567,
+        "Health Insurance": {
+            "Public": 1,
+            "Private": 2,
+            "Other": 3
+        },
+        "Other": 4412433,
+        "Seniors": 3692372,
+        "Water Issues": 87851
+    },
+    "Housing and Homelessness": {
+        "COVID 19": 1,
+        "Foreclosure": 8956551,
+        "Home Ownership": 2494336,
+        "Housing": 110780370,
+        "Eviction": {
+            "Non-subsidized":1,
+            "Subsidized": 2,
+            "Other": 3
+        },
+        "Mortgage": 1,
+        "Housing Discrimination": 12101733,
+        "Homelessness": 1,
+        "Landlord Issues": 46087276,
+        "Natural Disaster":{
+            "Hurricanes": 1,
+            "Wildfire": 2,
+            "Flood": 3,
+            "Other": 4
+        },  
+        "Insurance": 1,
+        "Mortgage Foreclosure": 17503765,
+        "Real Estate": 21491675,
+        "Rental Property": 32807290,
+        "Tenant Rights": 25274489
+    },
+    "Individual Rights": {
+        "Civil Rights": 1,
+        "Constitutional Rights": 2,
+        "Criminal Expungement": 3,
+        "Disability Rights": 4,
+        "Immigration": 5,
+        "Naturalization": 6,
+        "Citizenship": 7,
+        "LGBT Issues": 8,
+        "Mental Health": 9,
+        "Property Damages": 10,
+        "Voting Rights": 11,
+        "Other": 12
+    },
+    "Juvenile": {
+        "Emancipation": 1,
+        "Delinquency": 2,
+        "Other": 3
+    },
+    "Other": {
+        "2019 Flood â€”Other": 136217,
+        "2019 Flood â€”Wills/Probate": 184450,
+        "Advanced Directives & Powers of Attorneys": 76325126,
+        "Animal Law": 7137624,
+        "Appellate": 10142735,
+        "Business": 25093910,
+        "Business/Contracts": 2550904,
+        "Business/Intellectual Property": 354671,
+        "CORI or Criminal Records": 2044859,
+        "COVID 19 - Other": 1966781,
+        "COVID 19 - Probate": 1645510,
+        "COVID-19-Employment": 474730,
+        "COVID-19/Coronavirus ": 402056,
+        "COVID-19â€”Healthcare": 593862,
+        "Civil Appeals": 24675085,
+        "Civil Procedure": 9958456,
+        "Contract Dispute": 57767535,
+        "Copyright/Trademark/Inventions": 81240,
+        "Copyrights, Trademarks, and Patents ": 2127859,
+        "Criminal": 52721178,
+        "Criminal Record Annulment": 1615695,
+        "Disaster Legal Help": 129263,
+        "Disaster Relief": 6273476,
+        "Driver's License": 6962958,
+        "Drivers License": 43934789,
+        "Estates and Probate": 3600099,
+        "Expunction/Expungement & Nondisclosure": 10742737,
+        "Expungement": 169532157,
+        "Expungement/Sealing": 13840204,
+        "General Civil Procedure": 20719663,
+        "Guardianship": 18935575,
+        "Hurricane ": 22235144,
+        "Hurricane - Other": 809397,
+        "Hurricane Florence - Lost Documents": 75666,
+        "Hurricane Ida - FEMA ": 680016,
+        "Hurricane â€“ ID Replacement, Lost Documents": 697349,
+        "Hurricane â€“ Other": 833099,
+        "Immigration - Asylum": 1555964,
+        "Immigration - Battered/abused spouses": 172799,
+        "Immigration - Children's cases": 2247135,
+        "Immigration - DACA": 864068,
+        "Immigration - Deportation/Removal Proceedings": 691252,
+        "Immigration - Green Cards - DV Lottery & Other": 172818,
+        "Immigration - Green Cards - Employment Based": 518692,
+        "Immigration - Green Cards - Marriage/Family Based": 10372197,
+        "Immigration - Impact of Criminal Record": 345798,
+        "Immigration - Naturalization/Citizenship": 1209742,
+        "Immigration - Other": 8815237,
+        "Immigration - Student and other visas": 1210201,
+        "Immigration - Work Permits": 1037380,
+        "Indian Law": 601046,
+        "Inheriting Property": 8637781,
+        "Insurance": 14493281,
+        "Intellectual Property": 545068,
+        "Legal Assistance to Non-Profit Groups": 3630282,
+        "Licenses": 8031186,
+        "Life and Property Insurance": 4496279,
+        "Middle TN Tornado Recovery": 363336,
+        "Military/Veteran": 3586411,
+        "Miscellaneous": 221777337,
+        "Municipal tickets": 1941050,
+        "Name Change": 589955,
+        "Natural Disaster - Insurance": 205899,
+        "Natural Disaster - Other": 136632,
+        "Natural Disaster - Wills and Probate": 551745,
+        "No Legal Question Asked": 3361632,
+        "Nonprofits": 704347,
+        "Other": 2009414664,
+        "Other - Non-criminal": 159455372,
+        "Other/Issue Not Listed": 21480523,
+        "Personal Injury": 212644199,
+        "Personal Property": 4635818,
+        "Privacy Rights": 347990,
+        "Probate": 35175823,
+        "Probate, Wills & POA": 24848321,
+        "Probate, wills and estate ": 5939523,
+        "Probate/Wills/Estate Planning": 54699531,
+        "Property": 1481350,
+        "Real Estate": 27239526,
+        "Seniors": 13839896,
+        "Small Claims": 1371404,
+        "Small Claims/Personal Injury": 51684347,
+        "Social Security Disability": 960133,
+        "Taxes": 7651694,
+        "To Be Closed": 768652,
+        "Torts/Personal Injury/Negligence": 2511301,
+        "Traffic Tickets": 509042,
+        "Veterans Issues": 1770248,
+        "Veterans â€“ Discharge Upgrade": 3283792,
+        "Veterans â€“ Military Records (correcting or ordering) ": 1037044,
+        "Veterans â€“ Military Retirement ": 1555383,
+        "Veterans â€“ Other ": 345369,
+        "Veterans â€“ Other VA Benefits (Survivorâ€™s Benefits, Death Benefits, etc.)": 8122542,
+        "Veterans â€“ VA Disability Benefits ": 7948155,
+        "Veterans â€“ VA Overpayments ": 1036717,
+        "Veterans â€“ VA Pension": 172695,
+        "Wildfire or COVID-19: Other related issue": 40398041,
+        "Wildfire or COVID-19: Personal Injury": 4779124,
+        "Wills & Estates": 63432031,
+        "Wills/Estates/Inheritance": 3997292
+    },
+    "Work, Employment and Unemployment": {
+        "COVID 19": 1,
+        "Employee Rights": 2,
+        "Employment Discrimination": 3,
+        "Labor Law": 4,
+        "Wrongful Termination": 5,
+        "Unemployment": 6,
+        "Expungement and Pardons": 7,
+        "Taxes": 8,
+        "Wage Claims": 9,
+        "Natural Disasters": 10,
+        "Compensation": 11,
+        "Other": 12
+    }
+}
